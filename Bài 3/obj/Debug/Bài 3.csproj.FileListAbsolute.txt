@@ -1,0 +1,10 @@
+D:\Winform - Tren lop\Bài 3\bin\Debug\Bài 3.exe.config
+D:\Winform - Tren lop\Bài 3\bin\Debug\Bài 3.exe
+D:\Winform - Tren lop\Bài 3\bin\Debug\Bài 3.pdb
+D:\Winform - Tren lop\Bài 3\obj\Debug\Bài 3.csproj.AssemblyReference.cache
+D:\Winform - Tren lop\Bài 3\obj\Debug\Bài_3.Form1.resources
+D:\Winform - Tren lop\Bài 3\obj\Debug\Bài_3.Properties.Resources.resources
+D:\Winform - Tren lop\Bài 3\obj\Debug\Bài 3.csproj.GenerateResource.cache
+D:\Winform - Tren lop\Bài 3\obj\Debug\Bài 3.csproj.CoreCompileInputs.cache
+D:\Winform - Tren lop\Bài 3\obj\Debug\Bài 3.exe
+D:\Winform - Tren lop\Bài 3\obj\Debug\Bài 3.pdb

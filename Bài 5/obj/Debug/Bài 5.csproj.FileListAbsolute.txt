@@ -1,0 +1,20 @@
+D:\Winform - Tren lop\Bài 5\bin\Debug\Bài 5.exe.config
+D:\Winform - Tren lop\Bài 5\bin\Debug\Bài 5.exe
+D:\Winform - Tren lop\Bài 5\bin\Debug\Bài 5.pdb
+D:\Winform - Tren lop\Bài 5\obj\Debug\Bài 5.csproj.AssemblyReference.cache
+D:\Winform - Tren lop\Bài 5\obj\Debug\Bài_5.Properties.Resources.resources
+D:\Winform - Tren lop\Bài 5\obj\Debug\Bài 5.csproj.GenerateResource.cache
+D:\Winform - Tren lop\Bài 5\obj\Debug\Bài 5.csproj.CoreCompileInputs.cache
+D:\Winform - Tren lop\Bài 5\obj\Debug\Bài 5.exe
+D:\Winform - Tren lop\Bài 5\obj\Debug\Bài 5.pdb
+D:\Winform - Tren lop\Bài 5\obj\Debug\Bài_5.TreeView_Demo.resources
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\bin\Debug\Bài 5.exe.config
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\bin\Debug\Bài 5.exe
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\bin\Debug\Bài 5.pdb
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\obj\Debug\Bài 5.csproj.AssemblyReference.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\obj\Debug\Bài_5.TreeView_Demo.resources
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\obj\Debug\Bài_5.Properties.Resources.resources
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\obj\Debug\Bài 5.csproj.GenerateResource.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\obj\Debug\Bài 5.csproj.CoreCompileInputs.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\obj\Debug\Bài 5.exe
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bài 5\obj\Debug\Bài 5.pdb

@@ -1,0 +1,9 @@
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\bin\Debug\Ngo_Thi_Minh_Quang_TH02.exe.config
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\bin\Debug\Ngo_Thi_Minh_Quang_TH02.exe
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\bin\Debug\Ngo_Thi_Minh_Quang_TH02.pdb
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\obj\Debug\Ngo_Thi_Minh_Quang_TH02.csproj.AssemblyReference.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\obj\Debug\Ngo_Thi_Minh_Quang_TH02.Properties.Resources.resources
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\obj\Debug\Ngo_Thi_Minh_Quang_TH02.csproj.GenerateResource.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\obj\Debug\Ngo_Thi_Minh_Quang_TH02.csproj.CoreCompileInputs.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\obj\Debug\Ngo_Thi_Minh_Quang_TH02.exe
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Ngo_Thi_Minh_Quang_TH02\obj\Debug\Ngo_Thi_Minh_Quang_TH02.pdb

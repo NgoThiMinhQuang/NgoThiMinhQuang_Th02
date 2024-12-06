@@ -1,0 +1,10 @@
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\bin\Debug\Bai_3_2.exe.config
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\bin\Debug\Bai_3_2.exe
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\bin\Debug\Bai_3_2.pdb
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\obj\Debug\Bai_3_2.csproj.AssemblyReference.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\obj\Debug\Bai_3_2.Form1.resources
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\obj\Debug\Bai_3_2.Properties.Resources.resources
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\obj\Debug\Bai_3_2.csproj.GenerateResource.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\obj\Debug\Bai_3_2.csproj.CoreCompileInputs.cache
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\obj\Debug\Bai_3_2.exe
+C:\WINFORM LỚP\Ngo_Thi_Minh_Quang_TH02\Bai_3_2\obj\Debug\Bai_3_2.pdb

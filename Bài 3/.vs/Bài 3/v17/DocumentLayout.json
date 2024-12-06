@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Winform - Tren lop\\B\u00E0i 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44CA3768-D5B4-4F59-B176-BE70E45ADA72}|B\u00E0i 3.csproj|D:\\Winform - Tren lop\\B\u00E0i 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CA3768-D5B4-4F59-B176-BE70E45ADA72}|B\u00E0i 3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CA3768-D5B4-4F59-B176-BE70E45ADA72}|B\u00E0i 3.csproj|d:\\winform - tren lop\\b\u00E0i 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44CA3768-D5B4-4F59-B176-BE70E45ADA72}|B\u00E0i 3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BTTH_02\\BTTH_02\\Bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Winform - Tren lop\\B\u00E0i 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Winform - Tren lop\\B\u00E0i 3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAywFsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:08:36.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Winform - Tren lop\\B\u00E0i 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Winform - Tren lop\\B\u00E0i 3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:34:58.649Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9d167f20-0354-454c-92c9-2ce863fed055",
+        "Display": 0,
+        "X": 853,
+        "Y": 84,
+        "Width": 676,
+        "Height": 582,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "D:\\BTTH_02\\BTTH_02\\Bai3.cs",
+              "RelativeDocumentMoniker": "..\\..\\BTTH_02\\BTTH_02\\Bai3.cs",
+              "ToolTip": "D:\\BTTH_02\\BTTH_02\\Bai3.cs",
+              "RelativeToolTip": "..\\..\\BTTH_02\\BTTH_02\\Bai3.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:10:30.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
